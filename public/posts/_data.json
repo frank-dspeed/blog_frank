@@ -4,5 +4,8 @@
   },
   "hello-markdown": {
     "title": "Markdown Post"
+  },
+  "redmine-docker-manual":{
+    "title": "How to Attach to a Docker Container"
   }
 }
