@@ -1,0 +1,12 @@
+{
+  "domains": ["en.tuts.dspeed.eu"],
+  "globals": {
+    "site_title": "Direkt SPEED Tutorials Blog",
+    "twitter": "frank-dspeed",
+    "site_url": "http://en.tuts.dspeed.eu",
+    "disqus": {
+      "enabled": false,
+      "shortname": ""
+    }
+  }
+}
