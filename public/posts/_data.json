@@ -1,4 +1,7 @@
 {
+  "20140923-syslog-with-docker": {
+    "title": "How to run Syslog as Server in a Container"
+  },
   "hello-world": {
     "title": "Hello World"
   },
