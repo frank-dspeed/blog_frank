@@ -1,9 +1,7 @@
+##[How to run Syslog as Server in a Container](/posts/20140923-syslog-with-docker)
 
 
-
-
-This is a simple recipe showing how to run syslog in one container,
-and then send the syslog messages of multiple other containers to
+run syslog in one container, and then send the syslog messages of multiple other containers to
 that one.
 
 The Dockerfile and basic instructions are available on a tiny GitHub repo:
@@ -57,4 +55,4 @@ You can see the logs by running another container with
 For bonus points, you can try to see what happens when you use
 `journald` or something that tries to be container-aware :-)
 
-[Dockerfile]: https://github.com/jpetazzo/syslogdocker/blob/master/Dockerfile
+[Dockerfile]: https://github.com/dockerimages/docker-syslog/blob/master/Dockerfile
