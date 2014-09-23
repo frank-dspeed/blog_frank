@@ -5,7 +5,7 @@
     "twitter": "frank-dspeed",
     "site_url": "http://en.tuts.dspeed.eu",
     "disqus": {
-      "enabled": false,
+      "enabled": true,
       "shortname": "englishtutorialsdirektspeed"
     }
   }
